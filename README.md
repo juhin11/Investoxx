@@ -22,15 +22,15 @@ Investoxx is a platform that helps users create and manage stock portfolios usin
 2. Clone the repository 
     - React JS Frontend
         ```bash
-        git clone -b react git@github.com:karankewat02/Investoxx.git react
+        git clone -b react git@github.com:juhin11/Investoxx.git react
         ```
     - Django Backend
         ```bash
-        git clone -b django git@github.com:karankewat02/Investoxx.git django
+        git clone -b django git@github.com:juhin11/Investoxx.git django
         ```
     - Node Backend
         ```bash
-        git clone -b node git@github.com:karankewat02/Investoxx.git node
+        git clone -b node git@github.com:juhin11/Investoxx.git node
         ```
 
 3. This will create a folder named `react`, `django` and `node` in the current directory.
@@ -100,7 +100,7 @@ Investoxx is a platform that helps users create and manage stock portfolios usin
         ```
     5. Cloning django source code 
         ```bash
-        git clone -b django git@github.com:karankewat02/Investoxx.git investoxx
+        git clone -b django git@github.com:juhin11/Investoxx.git investoxx
         ```
     6. Go to the investoxx folder
         ```bash
@@ -150,7 +150,7 @@ Investoxx is a platform that helps users create and manage stock portfolios usin
 2. Clone the repository 
     - React Native 
         ```bash
-        git clone -b reactNative git@github.com:karankewat02/Investoxx.git reactNative
+        git clone -b reactNative git@github.com:juhin11/Investoxx.git reactNative
         ```
 
 
@@ -189,7 +189,7 @@ Investoxx is a platform that helps users create and manage stock portfolios usin
 2. Clone the repository 
     - Taui JS
         ```bash
-        git clone -b taurijs git@github.com:karankewat02/Investoxx.git taurijs 
+        git clone -b taurijs git@github.com:juhin11/Investoxx.git taurijs 
         ```
 
 
