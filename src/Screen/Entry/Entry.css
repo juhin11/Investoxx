@@ -1,0 +1,29 @@
+.EntryConatiner{
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    max-height: 100vh;
+    overflow-y: hidden;
+}
+
+.EntryConatiner form{
+    background-color: #eeeeee30;
+    padding: 2rem;
+    max-width: 50vw;
+    margin: 5vh auto;
+    border-radius: .5rem;
+}
+.EntryConatiner form>*{
+    margin: 1rem 0;
+}
+
+.EntryConatiner img{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
