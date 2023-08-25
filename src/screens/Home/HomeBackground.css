@@ -1,0 +1,246 @@
+   .macCard {
+    position: absolute;
+    top: 40vh;
+    right: 10vw;
+    animation: float 3s ease-in-out infinite;
+    z-index: -1 !important;
+   }
+
+   .macCard .card {
+    width: 190px;
+    height: 254px;
+    margin: 0 auto;
+    background-color: #F8FBFE;
+    border-radius: 8px;
+    /* z-index: 15 !important; */
+    overflow: hidden;
+    transform: rotate(25deg);
+   }
+   
+   .macCard .tools {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 9px;
+    background-color: #1e1e1e;
+    border-bottom: 1px solid #fff;
+   }
+   
+   .macCard .circle {
+    padding: 0 4px;
+   }
+   
+   .macCard .box {
+    display: inline-block;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 10px;
+    height: 10px;
+    padding: 1px;
+    border-radius: 50%;
+   }
+   
+   .macCard .red {
+    background-color: #ff605c;
+   }
+   
+   .macCard .yellow {
+    background-color: #ffbd44;
+   }
+   
+   .macCard .green {
+    background-color: #00ca4e;
+   }
+
+   .macCard .card__content{
+    background-color: #171717;
+    height: 100%;
+    display: flex;
+    padding-top: 2rem;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+   }
+
+   .macCard .card__content h1{
+        font-weight: 700;
+        font-size: 1.5rem;
+        color: #ffffffa8;
+    }
+    
+   
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+      
+.terminal{
+  position: absolute;
+  left: 10vw;
+  top: 30vh;
+  z-index: -1 !important;
+  animation: float 5s ease-in-out infinite;
+}
+.terminal .terminalContainer {
+  width: 230px;
+  height: 194px;
+  transform: rotate(320deg);
+  z-index: -1 !important;
+}
+
+.terminal .terminalContainer .terminal_toolbar {
+  display: flex;
+  height: 30px;
+  align-items: center;
+  padding: 0 8px;
+  box-sizing: border-box;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background: linear-gradient(#262c6b 0%, #131638 100%);
+}
+
+.terminal .terminalContainer .butt {
+  display: flex;
+  align-items: center;
+}
+
+.terminal .terminalContainer .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin-right: 5px;
+  font-size: 8px;
+  height: 12px;
+  width: 12px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 100%;
+  background: linear-gradient(#7d7871 0%, #595953 100%);
+  text-shadow: 0px 1px 0px rgba(255,255,255,0.2);
+  box-shadow: 0px 0px 1px 0px #41403A, 0px 1px 1px 0px #474642;
+}
+
+.terminal .terminalContainer .btn-color {
+  background: #ee411a;
+}
+
+.terminal .terminalContainer.btn:hover {
+  cursor: pointer;
+}
+
+.terminal .terminalContainer .btn:focus {
+  outline: none;
+}
+
+.terminal .terminalContainer .butt--exit {
+  background: linear-gradient(#f37458 0%, #de4c12 100%);
+}
+
+.terminal .terminalContainer .user {
+  color: #d5d0ce;
+  margin-left: 6px;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.terminal .terminalContainer .terminal_body {
+  background: #1d214c;
+  height: calc(100% - 30px);
+  padding-top: 2px;
+  margin-top: -1px;
+  font-size: 12px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.terminal .terminalContainer .terminal_promt {
+  display: flex;
+  flex-direction: column;
+}
+
+.terminal .terminalContainer .terminal_promt span {
+  margin-left: 4px;
+}
+
+.terminal .terminalContainer .terminal_user {
+  color: #7eda28;
+}
+
+.terminal .terminalContainer .terminal_location {
+  color: #4878c0;
+}
+
+.terminal .terminalContainer .terminal_bling {
+  color: #dddddd;
+}
+
+.terminal .terminalContainer .terminal_cursor {
+  display: block;
+  height: 14px;
+  width: 5px;
+  margin-left: 10px;
+  animation: curbl 1200ms linear infinite;
+}
+
+@keyframes curbl {
+  
+  0% {
+    background: #ffffff;
+  }
+
+  49% {
+    background: #ffffff;
+  }
+
+  60% {
+    background: transparent;
+  }
+
+  99% {
+    background: transparent;
+  }
+
+  100% {
+    background: #ffffff;
+  }
+} 
+
+
+
+@media only screen and (max-width: 700px) {
+
+.terminal{
+    left: 5vw;
+    top: 5vh;
+    z-index: -1;
+}
+
+.terminalContainer{
+    width: 230px;
+    height: 194px;
+    transform: rotate(320deg) scale(.75) !important;
+    z-index: -1 !important;
+}
+
+.macCard{
+  top: unset;
+    bottom: 0%;
+    animation: float 3s ease-in-out infinite !important;
+    z-index: -1 !important;
+}
+.macCard .card{
+  transform: rotate(25deg) scale(.75) !important;
+}
+}

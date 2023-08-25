@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap');
+
+.homeContainer{
+    min-height: 90vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    z-index: 10;
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+}
+
+.homeContainer>video{
+    position: absolute;
+    inset: 0;
+    object-fit: cover;
+    /* z-index: 1; */
+    width: 100%;
+    height: 100%;
+    /* filter: blur(5px); */
+
+}
+
+
+.homeContainer .hero{
+    background: #090d2b;
+    background: -moz-linear-gradient(180deg, rgba(9,13,43,0.1) 0%, rgba(9,13,43,0.3) 15%, rgba(9,13,43,0.5) 31%, rgba(9,13,43,0.7) 47%, rgba(9,13,43,0.9) 62%, rgba(9,13,43,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(9,13,43,0.1) 0%, rgba(9,13,43,0.3) 15%, rgba(9,13,43,0.5) 31%, rgba(9,13,43,0.7) 47%, rgba(9,13,43,0.9) 62%, rgba(9,13,43,1) 100%);
+    background: linear-gradient(180deg, rgba(9,13,43,0.1) 0%, rgba(9,13,43,0.3) 15%, rgba(9,13,43,0.5) 31%, rgba(9,13,43,0.7) 47%, rgba(9,13,43,0.9) 62%, rgba(9,13,43,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#090d2b",endColorstr="#090d2b",GradientType=1);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    z-index: 5;
+}
+
+.homeContainer .hero h2{
+    font-size: 5rem;
+    font-weight: 900;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    text-align: center;
+}   
+
+.homeContainer .hero p{
+    width: 50vw;
+    text-align: center;
+    color: #ffffffa9;
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+}
+.homeContainer .hero button{
+    padding: 10px;
+
+}
+#bottone1 {
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 9px;
+    background: #2C4DDE;
+    border: none;
+    font-family: inherit;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+    color: #fff;
+   }
+   
+#bottone1:hover {
+ box-shadow: 7px 5px 56px -14px #090C7D;
+}
+   
+#bottone1:active {
+ transform: scale(0.97);
+ box-shadow: 7px 5px 56px -10px #090C7D;
+}
+
+.goToTop{
+    position: fixed;
+    bottom: 5vh;
+    right: 5vh;
+    width: 50px;
+    aspect-ratio: 1;
+    background-color: #2C4DDE;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+}
+
+@media screen and (max-width: 768px){
+    .homeContainer .hero h2{
+        font-size: 3rem;
+    }
+    .homeContainer .hero p{
+        width: 80vw;
+    }
+
+}

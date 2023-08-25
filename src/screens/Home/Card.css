@@ -1,0 +1,142 @@
+.cardContainer{
+    background-color: var(--background);
+    font-weight: bold;
+    text-align: center;
+    padding: 5vh 0;
+}
+.cardContainer h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2rem;
+}
+.cardContainer>div:first-of-type{
+    margin: 5vh auto;
+    margin-bottom: 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    place-items: center;
+    gap: 1rem;
+}
+
+
+.c-s-card{
+    background-color: rgba(255, 255, 255, 0.101);
+    min-height: 40vh;
+    width: 40vh;
+    border-radius: 10%;
+}
+.c-s-card h2{
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+.c-s-card p{
+    margin-top: 2rem;
+}
+
+.s-Card {
+    position: relative;
+    width: 220px;
+    height: 320px;
+    background: rgb(246,246,246);
+    background: -moz-linear-gradient(283deg, rgba(246,246,246,1) 29%, rgba(255,255,255,1) 49%, rgba(200,200,200,1) 100%);
+    background: -webkit-linear-gradient(283deg, rgba(246,246,246,1) 29%, rgba(255,255,255,1) 49%, rgba(200,200,200,1) 100%);
+    background: linear-gradient(283deg, rgba(246,246,246,1) 29%, rgba(255,255,255,1) 49%, rgba(200,200,200,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6f6f6",endColorstr="#c8c8c8",GradientType=1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+    /* color: aliceblue; */
+  }
+  
+  .s-Card::before,
+  .s-Card::after {
+    position: absolute;
+    content: "";
+    width: 20%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+    /* background-color: hsla(195, 74%, 62%, 0.55); */
+    background-color: #62aec8;
+    transition: all 0.5s;
+  }
+  
+  .s-Card::before {
+    top: 0;
+    right: 0;
+    border-radius: 0 15px 0 100%;
+    color: hsl(195, 74%, 62%);
+  }
+  
+  .s-Card::after {
+    bottom: 0;
+    left: 0;
+    border-radius: 0 100%  0 15px;
+    font-size: .8rem;
+    color: #1C204B;
+  }
+  
+  .s-Card:hover::before,
+  .s-Card:hover:after {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    transition: all 0.5s;
+    overflow: hidden;
+  }
+  
+
+  .s-card1:hover:after {
+    content: "Machine learning can be used to predict stock prices by analyzing historical price action, relative strength index (RSI), exponential moving average (EMA), and other relevant data. The investors can make more informed investment decisions and potentially increase their returns.";
+  }
+  
+  .s-card2:hover:after {
+    content: "A user dashboard can be used to provide easy access to important information related to the stock market. It can include market index summaries, top-performing stocks, market sentiments, news feeds, customizable watchlists, and tools for conducting technical and fundamental analysis. The dashboard can help investors stay informed about the stock market and make more informed investment decisions.";
+  }
+  
+  .s-card3:hover:after {
+    content: "Stock analysis can provide a graph of a stock's performance over time, along with current and predicted prices, name, market cap, and other important information. It can also include an option to access all market news related to that particular stock. This analysis can help investors make informed investment decisions and stay up to date on the latest market trends and news.";
+  }
+  
+  .s-card4:hover:after {
+    content: "Investoxx is a platform that offers top news on the market. It provides comprehensive data, including the name, author, and description of each news article, as well as the stocks involved and sentiment analysis. The platform aims to help investors make informed decisions and stay ahead in a complex financial market.";
+  }
+  
+  .s-card5:hover:after {
+    content: "Investoxx offers users the ability to manage their investments with a personalized portfolio and watchlist. Users can add or remove stocks, providing flexibility and control over their investments. This feature allows users to track the performance of their portfolio and monitor stocks of interest, empowering informed decisions and optimization of investments.";
+  }
+  
+  .s-card6:hover:after {
+    content: "Investoxx prioritizes financial literacy and offers informative blogs to enhance users' finance knowledge. The blogs cover diverse topics such as market trends, financial planning, and investment analysis. The platform aims to empower users to make informed decisions and reach their financial objectives.";
+  }
+
+
+  @media only screen and (max-width: 700px) {
+  
+    .cardContainer>div:first-of-type{
+      
+      grid-template-columns: repeat(2,1fr);
+      place-items: center;
+      gap: 1rem;
+
+    }
+
+    .s-Card{
+      width: 40vw;
+      height: 30vh;
+    }
+  .s-Card:hover:after {
+    font-size: 8px;
+    padding: 5%;
+  }
+  
+  }

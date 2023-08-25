@@ -1,0 +1,81 @@
+.usedContainer{
+    min-height: 80vh;
+    background-color: var(--background);
+    padding: 5vw;
+    position: relative;
+}
+
+.usedContainer> h1{
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgb(228, 228, 228);
+    font-family: Lato ,sans-serif;
+}
+
+.usedContainer .serviesUsed{
+    position: relative;
+    padding: 5vh 0;
+    color: #fff;
+    transform-origin: top;
+}
+.usedContainer .serviesUsed::before{
+    content: " ";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 7px;
+    height: 100%;
+    background-color: #00DBDE;
+    background-image: linear-gradient(180deg, #00DBDE 0%, #FC00FF 100%);
+    border-radius: 100vh;
+}
+
+.usedContainer .serviesUsed>div{
+    margin: 5rem 0;
+    display: flex;
+    align-items: center;
+    margin-left: -.5rem;
+}
+.usedContainer .serviesUsed>div h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.usedContainer .serviesUsed>div>div:first-of-type{
+    margin-right: 2rem;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    color: #fff;
+    transform: translateX(-.5rem);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+
+.usedContainer .serviesUsed>div:nth-of-type(1)>div:first-of-type{
+    background-color: #4700D8;
+    box-shadow: 0 0 10px #4700D8;
+}
+.usedContainer .serviesUsed>div:nth-of-type(2)>div:first-of-type{
+    background-color: #cab817;
+    box-shadow: 0 0 10px #cab817;
+}
+.usedContainer .serviesUsed>div:nth-of-type(3)>div:first-of-type{
+    background-color: #1CD6CE;
+    box-shadow: 0 0 10px #1CD6CE;
+}
+.usedContainer .serviesUsed>div:nth-of-type(4)>div:first-of-type{
+    background-color: #FF6464;
+    box-shadow: 0 0 10px #FF6464;
+}
+
+
+.usedContainer .serviesUsed>div>div:first-of-type svg{
+    transform: scale(1.25);
+}
+
