@@ -1,0 +1,612 @@
+{
+    "result": [
+      {
+        "symbol": "AAPL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ABNB",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ACR",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "ADC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ADNT",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ADP",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ADSK",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "AIRC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ALGN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ALXO",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "AMAT",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "AMED",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "APPH",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "AVIR",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "AZN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "BABA",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "BDN",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "BLI",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "BORR",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "BYND",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "CANO",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "CDNS",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CGNX",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CHDN",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CHE",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CHH",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CHTR",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CHX",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CIEN",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CLF",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CLH",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CNXC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "COHR",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "COKE",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "COLM",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "COTY",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CPRI",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CROX",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CRUS",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CSCO",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CSGP",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CSL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CSX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CTAS",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CTSH",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CUBE",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "CVLT",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "CWH",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "DAN",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "DAR",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "DECK",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "DEI",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "DINO",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "DM",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "DOC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "DSX",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "DTM",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "EEFT",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "EGO",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "EGP",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "EHC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "EME",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ENOV",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ENPH",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ENR",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ENS",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "EXC",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "FANG",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "FAST",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "FTNT",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "GFS",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "GILD",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "GOGL",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "GOOG",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "HON",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "IDXX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ILMN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "INTC",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "INTU",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ISRG",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "JD",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "KAR",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "KDP",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "KLAC",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "LRCX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "LULU",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MAR",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MCHP",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MDLZ",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MEDP",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "MELI",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "META",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MNST",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MP",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "MRCY",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "MRVL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MSFT",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MU",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "MUR",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NAVI",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NBIX",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NGVT",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NKE",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "NOVT",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NSA",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "NVDA",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "NXPI",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "NYCB",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "ODFL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "OFC",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "OLED",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "OMCL",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "OPEN",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "ORLY",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "OSK",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "OTLY",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "PACW",
+        "stock_type": "mid"
+      },
+      {
+        "symbol": "PANW",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "PAYX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "PDD",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "PEP",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "PSFE",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "PYPL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "QCOM",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "QUOT",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "RAD",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "REGN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "RGS",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "RIVN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ROST",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "RXT",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "SAND",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "SBUX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "SDC",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "SGEN",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "SIRI",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "SKLZ",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "TEAM",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "TLRY",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "TMUS",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "UP",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "VMEO",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "VRM",
+        "stock_type": "small"
+      },
+      {
+        "symbol": "VRSK",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "VRTX",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "WBA",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "WBD",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "WDAY",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "XEL",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ZM",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ZS",
+        "stock_type": "large"
+      },
+      {
+        "symbol": "ZUO",
+        "stock_type": "small"
+      }
+    ]
+  }

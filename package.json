@@ -1,0 +1,23 @@
+{
+  "name": "investoxx",
+  "version": "1.0.0",
+  "description": "Investoxx is an advanced platform that empowers users to create and manage their stock market portfolios. Our platform leverages cutting-edge AI technology to analyze market trends and predict the performance of stocks. With real-time data analysis and integration of stock market news, Investoxx provides an unparalleled level of insight into the financial market. Users have the ability to generate custom portfolios, making informed investment decisions with ease. Experience the future of stock market portfolio management with Investoxx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.1.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}

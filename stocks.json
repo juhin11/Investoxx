@@ -1,0 +1,536 @@
+[
+    {
+      "Symbol": "ABNB",
+      "Name": "Airbnb, Inc. Class A Common Stock",
+      "marketCap": "43,357,150,890",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ADBE",
+      "Name": "Adobe Inc. Common Stock",
+      "marketCap": "172,473,251,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ADI",
+      "Name": "Analog Devices, Inc. Common Stock",
+      "marketCap": "90,888,964,160",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ADP",
+      "Name": "Automatic Data Processing, Inc. Common Stock",
+      "marketCap": "93,676,458,960",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ADSK",
+      "Name": "Autodesk, Inc. Common Stock",
+      "marketCap": "48,093,385,200",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AEP",
+      "Name": "American Electric Power Company, Inc. Common Stock",
+      "marketCap": "46,530,385,200",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ALGN",
+      "Name": "Align Technology, Inc. Common Stock",
+      "marketCap": "24,668,550,720",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AMAT",
+      "Name": "Applied Materials, Inc. Common Stock",
+      "marketCap": "98,737,663,930",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AMD",
+      "Name": "Advanced Micro Devices, Inc. Common Stock",
+      "marketCap": "131,374,766,880",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AMGN",
+      "Name": "Amgen Inc. Common Stock",
+      "marketCap": "129,392,907,500",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ANSS",
+      "Name": "ANSYS, Inc. Common Stock",
+      "marketCap": "23,262,388,480",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ASML",
+      "Name": "ASML Holding N.V. New York Registry Shares",
+      "marketCap": "260,702,220,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AVGO",
+      "Name": "Broadcom Inc. Common Stock",
+      "marketCap": "240,266,843,250",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "AZN",
+      "Name": "AstraZeneca PLC American Depositary Shares",
+      "marketCap": "213,445,412,880",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "BIIB",
+      "Name": "Biogen Inc. Common Stock",
+      "marketCap": "41,227,486,300",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "BKNG",
+      "Name": "Booking Holdings Inc. Common Stock",
+      "marketCap": "91,090,923,930",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "BKR",
+      "Name": "Baker Hughes Company Class A Common Stock",
+      "marketCap": "32,968,326,560",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CDNS",
+      "Name": "Cadence Design Systems, Inc. Common Stock",
+      "marketCap": "50,419,280,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CHTR",
+      "Name": "Charter Communications, Inc. Class A Common Stock New",
+      "marketCap": "61,792,443,680",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CMCSA",
+      "Name": "Comcast Corporation Class A Common Stock",
+      "marketCap": "165,483,659,040",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "COST",
+      "Name": "Costco Wholesale Corporation Common Stock",
+      "marketCap": "221,297,573,960",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CPRT",
+      "Name": "Copart, Inc. (DE) Common Stock",
+      "marketCap": "32,340,770,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CRWD",
+      "Name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+      "marketCap": "23,784,006,720",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CSCO",
+      "Name": "Cisco Systems, Inc. Common Stock (DE)",
+      "marketCap": "194,148,947,780",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CSGP",
+      "Name": "CoStar Group, Inc. Common Stock",
+      "marketCap": "30,892,172,400",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CSX",
+      "Name": "CSX Corporation Common Stock",
+      "marketCap": "66,373,052,130",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CTAS",
+      "Name": "Cintas Corporation Common Stock",
+      "marketCap": "44,970,218,700",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "CTSH",
+      "Name": "Cognizant Technology Solutions Corporation Class A Common Stock",
+      "marketCap": "34,288,809,120",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "DDOG",
+      "Name": "Datadog, Inc. Class A Common Stock",
+      "marketCap": "23,515,866,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "DLTR",
+      "Name": "Dollar Tree Inc. Common Stock",
+      "marketCap": "32,522,895,360",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "DXCM",
+      "Name": "DexCom, Inc. Common Stock",
+      "marketCap": "45,535,955,620",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "EA",
+      "Name": "Electronic Arts Inc. Common Stock",
+      "marketCap": "30,865,744,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "EBAY",
+      "Name": "eBay Inc. Common Stock",
+      "marketCap": "26,091,044,720",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ENPH",
+      "Name": "Enphase Energy, Inc. Common Stock",
+      "marketCap": "28,825,402,680",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "EXC",
+      "Name": "Exelon Corporation Common Stock",
+      "marketCap": "40,455,236,820",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "FANG",
+      "Name": "Diamondback Energy, Inc. Common Stock",
+      "marketCap": "26,274,890,710",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "FAST",
+      "Name": "Fastenal Company Common Stock",
+      "marketCap": "29,846,523,600",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "FISV",
+      "Name": "Fiserv, Inc. Common Stock",
+      "marketCap": "73,434,637,920",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "FTNT",
+      "Name": "Fortinet, Inc. Common Stock",
+      "marketCap": "46,569,477,960",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "GFS",
+      "Name": "GlobalFoundries Inc. Ordinary Shares",
+      "marketCap": "35,206,265,070",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "GILD",
+      "Name": "Gilead Sciences, Inc. Common Stock",
+      "marketCap": "108,742,954,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "GOOG",
+      "Name": "Alphabet Inc. Class C Capital Stock",
+      "marketCap": "577,317,960,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "HON",
+      "Name": "Honeywell International Inc. Common Stock",
+      "marketCap": "134,780,391,340",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "IDXX",
+      "Name": "IDEXX Laboratories, Inc. Common Stock",
+      "marketCap": "40,226,701,410",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ILMN",
+      "Name": "Illumina, Inc. Common Stock",
+      "marketCap": "30,922,034,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "INTC",
+      "Name": "Intel Corporation Common Stock",
+      "marketCap": "114,730,600,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "INTU",
+      "Name": "Intuit Inc. Common Stock",
+      "marketCap": "116,168,106,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ISRG",
+      "Name": "Intuitive Surgical, Inc. Common Stock",
+      "marketCap": "86,674,738,950",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "JD",
+      "Name": "JD.com, Inc. American Depositary Shares",
+      "marketCap": "70,476,828,030",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "KDP",
+      "Name": "Keurig Dr Pepper Inc. Common Stock",
+      "marketCap": "49,965,335,280",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "KLAC",
+      "Name": "KLA Corporation Common Stock",
+      "marketCap": "56,074,978,240",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "LCID",
+      "Name": "Lucid Group, Inc. Common Stock",
+      "marketCap": "16,854,722,930",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "LRCX",
+      "Name": "Lam Research Corporation Common Stock",
+      "marketCap": "68,871,395,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "LULU",
+      "Name": "lululemon athletica inc. Common Stock",
+      "marketCap": "37,840,548,200",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MAR",
+      "Name": "Marriott International Class A Common Stock",
+      "marketCap": "54,245,459,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MCHP",
+      "Name": "Microchip Technology Incorporated Common Stock",
+      "marketCap": "45,430,743,400",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MDLZ",
+      "Name": "Mondelez International, Inc. Class A Common Stock",
+      "marketCap": "89,448,044,500",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MELI",
+      "Name": "MercadoLibre, Inc. Common Stock",
+      "marketCap": "55,573,460,250",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "META",
+      "Name": "Meta Platforms, Inc. Class A Common Stock",
+      "marketCap": "391,606,228,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MNST",
+      "Name": "Monster Beverage Corporation",
+      "marketCap": "53,635,283,200",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MRVL",
+      "Name": "Marvell Technology, Inc. Common Stock",
+      "marketCap": "37,983,330,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MSFT",
+      "Name": "Microsoft Corporation Common Stock",
+      "marketCap": "1,961,271,846,300",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "MU",
+      "Name": "Micron Technology, Inc. Common Stock",
+      "marketCap": "65,034,449,580",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "NVDA",
+      "Name": "NVIDIA Corporation Common Stock",
+      "marketCap": "523,119,000,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "NXPI",
+      "Name": "NXP Semiconductors N.V. Common Stock",
+      "marketCap": "48,320,903,450",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ODFL",
+      "Name": "Old Dominion Freight Line, Inc. Common Stock",
+      "marketCap": "38,558,218,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ORLY",
+      "Name": "O'Reilly Automotive, Inc. Common Stock",
+      "marketCap": "51,645,224,320",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "PANW",
+      "Name": "Palo Alto Networks, Inc. Common Stock",
+      "marketCap": "49,964,494,250",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "PAYX",
+      "Name": "Paychex, Inc. Common Stock",
+      "marketCap": "41,165,002,220",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "PDD",
+      "Name": "PDD Holdings Inc. American Depositary Shares",
+      "marketCap": "116,892,485,700",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "PEP",
+      "Name": "PepsiCo, Inc. Common Stock",
+      "marketCap": "242,752,325,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "PYPL",
+      "Name": "PayPal Holdings, Inc. Common Stock",
+      "marketCap": "92,114,262,400",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "QCOM",
+      "Name": "QUALCOMM Incorporated Common Stock",
+      "marketCap": "144,597,790,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "REGN",
+      "Name": "Regeneron Pharmaceuticals, Inc. Common Stock",
+      "marketCap": "81,127,909,240",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "RIVN",
+      "Name": "Rivian Automotive, Inc. Class A Common Stock",
+      "marketCap": "17,212,519,350",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ROST",
+      "Name": "Ross Stores, Inc. Common Stock",
+      "marketCap": "39,974,716,340",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "SBUX",
+      "Name": "Starbucks Corporation Common Stock",
+      "marketCap": "122,917,902,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "SGEN",
+      "Name": "Seagen Inc. Common Stock",
+      "marketCap": "25,140,897,650",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "SIRI",
+      "Name": "Sirius XM Holdings Inc. Common Stock",
+      "marketCap": "18,358,614,640",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "TEAM",
+      "Name": "Atlassian Corporation Class A Common Stock",
+      "marketCap": "25,536,886,560",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "TMUS",
+      "Name": "T-Mobile US, Inc. Common Stock",
+      "marketCap": "178,784,929,800",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "VRSK",
+      "Name": "Verisk Analytics, Inc. Common Stock",
+      "marketCap": "27,646,270,640",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "VRTX",
+      "Name": "Vertex Pharmaceuticals Incorporated Common Stock",
+      "marketCap": "76,339,903,400",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "WBA",
+      "Name": "Walgreens Boots Alliance, Inc. Common Stock",
+      "marketCap": "31,608,915,150",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "WBD",
+      "Name": "Warner Bros. Discovery, Inc. Series A Common Stock ",
+      "marketCap": "34,531,791,120",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "WDAY",
+      "Name": "Workday, Inc. Class A Common Stock",
+      "marketCap": "37,743,700,000",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "XEL",
+      "Name": "Xcel Energy Inc. Common Stock",
+      "marketCap": "37,475,543,040",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ZM",
+      "Name": "Zoom Video Communications, Inc. Class A Common Stock",
+      "marketCap": "18,229,834,920",
+      "marketSize": "large"
+    },
+    {
+      "Symbol": "ZS",
+      "Name": "Zscaler, Inc. Common Stock",
+      "marketCap": "19,305,526,570",
+      "marketSize": "large"
+    }
+  ]
