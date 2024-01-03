@@ -211,4 +211,4 @@ Investoxx is a platform that helps users create and manage stock portfolios usin
         ```
 ---    
 
-### If you face any issues, please contact [Karan Kewat](mailto:karankewat2911@gmail.com) or [Juhi Nema](mailto:juhinema200@gmail.com).
+### If you face any issues, please contact [Juhi Nema](mailto:juhinema200@gmail.com) or  [Karan Kewat](mailto:karankewat2911@gmail.com).
